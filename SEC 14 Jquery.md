@@ -84,9 +84,8 @@ $("a").attr("href", "https://www.google.com")
 ## Adding Event Listeners with jQuery
 
 dom vs jquery
-![](/img/21.png)
 
-![](/img/22.png)
+![](/img/21.png)
 
 更統一的寫法: on + event
 
