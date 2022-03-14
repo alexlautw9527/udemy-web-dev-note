@@ -107,7 +107,6 @@ $("button").remove() //刪除button
 
 ![](/img/24.png)
 
-![](/img/25.png)
 
 ## Website Animations with jQuery
 
